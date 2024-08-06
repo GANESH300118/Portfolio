@@ -1,5 +1,4 @@
-import { FaLinkedin } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { IoMdMailOpen } from "react-icons/io";
 
 const Navbar = () => {
@@ -22,9 +21,6 @@ const Navbar = () => {
           rel="noopener noreferrer"
         >
           <FaGithub />
-        </a>
-        <a href="mailto:Ganeshpillala03@gmail.com">
-          <IoMdMailOpen />
         </a>
       </div>
     </nav>
